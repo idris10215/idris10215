@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋 , I'm Idris</h1>
-<h3 align="center">Aspiring Web Developer || Programmer || Learner</h3> 
+<h3 align="center">Full-Stack MERN Developer | AI/ML Enthusiast | Final-year CSE Student  </h3> 
 
 # 💫 About Me:
-I'm Mohammed Idris, a third-year Computer Science student passionate about web development and technology. I enjoy creating interactive applications and exploring data structures and algorithms. Currently, I'm expanding my skills in AI and app development. I'm eager to learn, collaborate, and take on new challenges in the tech world!<br>
+I'm **Mohammed Idris**, a final-year Computer Science student passionate about building modern, scalable web applications using the **MERN stack**.  
+I'm focused on sharpening my problem-solving skills with **Data Structures & Algorithms**, and actively contributing to open source to learn through collaboration and impact.
 
 
 ## 🌐 Socials:
